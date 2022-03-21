@@ -29,28 +29,16 @@ if numberOfListings >= lastListing:
 
     for house_listing in house_listings:
         address_element = house_listing.find('meta', itemprop="streetAddress")
-        # bed_element = house_listing.find('div', class_="property-information")
-        bed_element = house_listing.find_all('span', class_="text")
+        #bed_element = house_listing.find_all('span', class_="text")
         bath_element = house_listing.find()
         price_element = house_listing.find("div", class_="propertyCard-priceValue")
 
         #print(address_element['content'])
         address.append(address_element['content'])
         house_price.append(price_element.text)
-        lastListing ++1
-
-##################################################
-        # ID_element = house_listing.find_all("prop")
-        #ID_element = house_listing.find('div', {'class': 'propertyCard propertyCard--featured propertyCard--fsw-updates'})
-        #ID_tag = soup.find('a')
-        #listing_ID = ID_tag.attrs['id']
-
-        #testing = listing_ID.get_text()
-        #testing = int(listing_ID.replace(",", ""))
-        #print(ID_element)
 
 
-#########################################################
+
 
 
 
