@@ -1,3 +1,101 @@
 ,Address,Price,Property ID
-0,"The Mall, Faversham","£240,000        ",prop112858403
-1,"West Street, Faversham, Kent","£200,000        ",prop121156889
+0,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+1,Forest Drive Keston BR2,POA        ,prop119538938
+2,"Park Lane, Godden Green, Sevenoaks, Kent, TN15","£10,000,000        ",prop119872577
+3,"Park Lane, Godden Green, Sevenoaks","£10,000,000        ",prop120656324
+4,"Oxney, St. Margarets-At-Cliffe, Dover, Kent","£5,950,000        ",prop109042538
+5,Holwood Park Avenue Keston Park BR6,"£4,500,000        ",prop118685348
+6,"Holwood Park Avenue, Keston Park, Orpington, Kent, BR6 8NQ","£4,500,000        ",prop118742495
+7,"The Midway, Nevill Court, Tunbridge Wells, Kent","£4,450,000        ",prop113435510
+8,"Manor Lane, Fawkham, Kent, DA3","£3,495,000        ",prop113062337
+9,"Cudham Road, Downe, Orpington","£3,250,000        ",prop115586036
+10,"Susan Wood, Chislehurst","£3,000,000        ",prop120200501
+11,"The Street, Smarden, Ashford, Kent, TN27","£3,000,000        ",prop120913799
+12,"French Street, Westerham, Kent, TN16","£2,750,000        ",prop119356535
+13,"The Street, Frittenden, Kent, TN17 2DG","£2,500,000        ",prop120973460
+14,"Royal Buildings, The Strand, Deal","£2,495,000        ",prop114994919
+15,"The Esplanade, Sandgate, Kent","£2,300,000        ",prop120778427
+16,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+17,"Park Farm Road, Bickley, Kent, BR1","£2,250,000        ",prop120361151
+18,"Crittenden Road, Matfield, Tonbridge, Kent, TN12","£2,250,000        ",prop114762893
+19,"Mill Lane, Frittenden, Kent TN17 2DT","£2,250,000        ",prop121329626
+20,"Clapper Lane, Staplehurst, Tonbridge, Kent, TN12","£2,200,000        ",prop119991278
+21,"Halstead Lane, Knockholt, Sevenoaks, Kent, TN14","£2,150,000        ",prop120778838
+22,"Milstead, Kent","£2,150,000        ",prop116309345
+23,"Broadwater Down, Tunbridge Wells, Kent, TN2","£2,100,000        ",prop120746879
+24,"Oakfield Lane, Keston","£2,100,000        ",prop121112762
+25,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+26,Forest Drive Keston BR2,POA        ,prop119538938
+27,"Park Lane, Godden Green, Sevenoaks, Kent, TN15","£10,000,000        ",prop119872577
+28,"Park Lane, Godden Green, Sevenoaks","£10,000,000        ",prop120656324
+29,"Oxney, St. Margarets-At-Cliffe, Dover, Kent","£5,950,000        ",prop109042538
+30,Holwood Park Avenue Keston Park BR6,"£4,500,000        ",prop118685348
+31,"Holwood Park Avenue, Keston Park, Orpington, Kent, BR6 8NQ","£4,500,000        ",prop118742495
+32,"The Midway, Nevill Court, Tunbridge Wells, Kent","£4,450,000        ",prop113435510
+33,"Manor Lane, Fawkham, Kent, DA3","£3,495,000        ",prop113062337
+34,"Cudham Road, Downe, Orpington","£3,250,000        ",prop115586036
+35,"Susan Wood, Chislehurst","£3,000,000        ",prop120200501
+36,"The Street, Smarden, Ashford, Kent, TN27","£3,000,000        ",prop120913799
+37,"French Street, Westerham, Kent, TN16","£2,750,000        ",prop119356535
+38,"The Street, Frittenden, Kent, TN17 2DG","£2,500,000        ",prop120973460
+39,"Royal Buildings, The Strand, Deal","£2,495,000        ",prop114994919
+40,"The Esplanade, Sandgate, Kent","£2,300,000        ",prop120778427
+41,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+42,"Park Farm Road, Bickley, Kent, BR1","£2,250,000        ",prop120361151
+43,"Crittenden Road, Matfield, Tonbridge, Kent, TN12","£2,250,000        ",prop114762893
+44,"Mill Lane, Frittenden, Kent TN17 2DT","£2,250,000        ",prop121329626
+45,"Clapper Lane, Staplehurst, Tonbridge, Kent, TN12","£2,200,000        ",prop119991278
+46,"Halstead Lane, Knockholt, Sevenoaks, Kent, TN14","£2,150,000        ",prop120778838
+47,"Milstead, Kent","£2,150,000        ",prop116309345
+48,"Broadwater Down, Tunbridge Wells, Kent, TN2","£2,100,000        ",prop120746879
+49,"Oakfield Lane, Keston","£2,100,000        ",prop121112762
+50,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+51,Forest Drive Keston BR2,POA        ,prop119538938
+52,"Park Lane, Godden Green, Sevenoaks, Kent, TN15","£10,000,000        ",prop119872577
+53,"Park Lane, Godden Green, Sevenoaks","£10,000,000        ",prop120656324
+54,"Oxney, St. Margarets-At-Cliffe, Dover, Kent","£5,950,000        ",prop109042538
+55,Holwood Park Avenue Keston Park BR6,"£4,500,000        ",prop118685348
+56,"Holwood Park Avenue, Keston Park, Orpington, Kent, BR6 8NQ","£4,500,000        ",prop118742495
+57,"The Midway, Nevill Court, Tunbridge Wells, Kent","£4,450,000        ",prop113435510
+58,"Manor Lane, Fawkham, Kent, DA3","£3,495,000        ",prop113062337
+59,"Cudham Road, Downe, Orpington","£3,250,000        ",prop115586036
+60,"Susan Wood, Chislehurst","£3,000,000        ",prop120200501
+61,"The Street, Smarden, Ashford, Kent, TN27","£3,000,000        ",prop120913799
+62,"French Street, Westerham, Kent, TN16","£2,750,000        ",prop119356535
+63,"The Street, Frittenden, Kent, TN17 2DG","£2,500,000        ",prop120973460
+64,"Royal Buildings, The Strand, Deal","£2,495,000        ",prop114994919
+65,"The Esplanade, Sandgate, Kent","£2,300,000        ",prop120778427
+66,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+67,"Park Farm Road, Bickley, Kent, BR1","£2,250,000        ",prop120361151
+68,"Crittenden Road, Matfield, Tonbridge, Kent, TN12","£2,250,000        ",prop114762893
+69,"Mill Lane, Frittenden, Kent TN17 2DT","£2,250,000        ",prop121329626
+70,"Clapper Lane, Staplehurst, Tonbridge, Kent, TN12","£2,200,000        ",prop119991278
+71,"Halstead Lane, Knockholt, Sevenoaks, Kent, TN14","£2,150,000        ",prop120778838
+72,"Milstead, Kent","£2,150,000        ",prop116309345
+73,"Broadwater Down, Tunbridge Wells, Kent, TN2","£2,100,000        ",prop120746879
+74,"Oakfield Lane, Keston","£2,100,000        ",prop121112762
+75,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+76,Forest Drive Keston BR2,POA        ,prop119538938
+77,"Park Lane, Godden Green, Sevenoaks, Kent, TN15","£10,000,000        ",prop119872577
+78,"Park Lane, Godden Green, Sevenoaks","£10,000,000        ",prop120656324
+79,"Oxney, St. Margarets-At-Cliffe, Dover, Kent","£5,950,000        ",prop109042538
+80,Holwood Park Avenue Keston Park BR6,"£4,500,000        ",prop118685348
+81,"Holwood Park Avenue, Keston Park, Orpington, Kent, BR6 8NQ","£4,500,000        ",prop118742495
+82,"The Midway, Nevill Court, Tunbridge Wells, Kent","£4,450,000        ",prop113435510
+83,"Manor Lane, Fawkham, Kent, DA3","£3,495,000        ",prop113062337
+84,"Cudham Road, Downe, Orpington","£3,250,000        ",prop115586036
+85,"Susan Wood, Chislehurst","£3,000,000        ",prop120200501
+86,"The Street, Smarden, Ashford, Kent, TN27","£3,000,000        ",prop120913799
+87,"French Street, Westerham, Kent, TN16","£2,750,000        ",prop119356535
+88,"The Street, Frittenden, Kent, TN17 2DG","£2,500,000        ",prop120973460
+89,"Royal Buildings, The Strand, Deal","£2,495,000        ",prop114994919
+90,"The Esplanade, Sandgate, Kent","£2,300,000        ",prop120778427
+91,"Blackham, Tunbridge Wells, East Sussex, TN3","£2,250,000        ",prop121037150
+92,"Park Farm Road, Bickley, Kent, BR1","£2,250,000        ",prop120361151
+93,"Crittenden Road, Matfield, Tonbridge, Kent, TN12","£2,250,000        ",prop114762893
+94,"Mill Lane, Frittenden, Kent TN17 2DT","£2,250,000        ",prop121329626
+95,"Clapper Lane, Staplehurst, Tonbridge, Kent, TN12","£2,200,000        ",prop119991278
+96,"Halstead Lane, Knockholt, Sevenoaks, Kent, TN14","£2,150,000        ",prop120778838
+97,"Milstead, Kent","£2,150,000        ",prop116309345
+98,"Broadwater Down, Tunbridge Wells, Kent, TN2","£2,100,000        ",prop120746879
+99,"Oakfield Lane, Keston","£2,100,000        ",prop121112762
